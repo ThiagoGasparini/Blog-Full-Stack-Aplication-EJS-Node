@@ -1,1 +1,1 @@
-# Full-Stack-Aplication-Blog
+# Criando um blog com painel administrativo - CRUD completo
